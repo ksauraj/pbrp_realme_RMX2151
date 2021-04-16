@@ -146,3 +146,7 @@ TARGET_USES_LOGD := true
 
 # PBRP Build Flags
 PB_DISABLE_DEFAULT_TREBLE_COMP := true
+
+#testing wether maintainer name works in unofficial build
+PB_MAINTAINER := "SAJRAJ"
+MAINTAINER := "SAURAJ @ksauraj"
