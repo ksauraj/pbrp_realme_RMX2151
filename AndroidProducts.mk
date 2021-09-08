@@ -19,4 +19,4 @@
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_RMX2151.mk
           
-COMMON_LUNCH_CHOICES := omni_RMX2001-eng     
+COMMON_LUNCH_CHOICES := omni_RMX2151-eng     
