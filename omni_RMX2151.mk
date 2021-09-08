@@ -36,7 +36,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/roo
 # Fastbootd
 PRODUCT_PACKAGES += \
     android.hardware.fastboot@1.0-impl-mock \
-    android.hardware.fastboot@1.0-impl-mock.recov
+    android.hardware.fastboot@1.0-impl-mock.recovery
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := RMX2151
